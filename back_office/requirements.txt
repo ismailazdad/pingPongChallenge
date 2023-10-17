@@ -1,5 +1,5 @@
 Django==3.2.20
-Pillow==9.4.0
+Pillow==10.0.1
 requests==2.25.1
 celery==5.2.7
 django-cors-headers==3.13.0
