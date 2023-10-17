@@ -1,4 +1,4 @@
-Django==3.2.3
+Django==3.2.20
 Pillow==9.4.0
 requests==2.25.1
 celery==5.2.7
